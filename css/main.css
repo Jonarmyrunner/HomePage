@@ -1,0 +1,26 @@
+aside{
+  background-color:rgb(95, 95, 95);
+  border:2px double;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 2px 5px 0 0 rgb(52, 59, 44);
+  color:rgb(0, 0, 0);
+  display:block;
+  margin:10px 10px 20px 10px;
+  padding: 5px 0;
+  position:relative;
+  text-align:center;
+}
+
+h1 {
+  font-size:xx-large;
+  text-align-last:center;
+  color:white;
+}
+
+h2 {
+  font-size:large;
+  color:rgb(105,64,68);
+}
